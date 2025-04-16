@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently learning GitHub!
 <!--
 **Arthur030303/Arthur030303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
